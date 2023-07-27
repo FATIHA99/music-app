@@ -1,0 +1,12 @@
+redux toolkit 
+store design (  i want to use the maximum  of component with RB paper an RN  element )
+animation
+splash screen  -  map - strip -  scan - 
+typescript
+ 
+
+ acces camera tele  _  music 
+
+
+
+problem  solving  
